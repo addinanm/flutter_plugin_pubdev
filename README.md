@@ -8,6 +8,7 @@
 
 #### 2. Jelaskan maksud dari langkah 2 pada praktikum tersebut!
 ![Screenshot Hello World](images/langkah_2.PNG)<br>
+![Screenshot Hello World](images/hasil.jpg)<br>
 
 Penjelasan : 
 
