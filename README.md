@@ -18,7 +18,7 @@ Penjelasan : pada kode diatas terdapat error karena package autosizetext tersebu
 #### 4. Pada langkah 6 terdapat dua widget yang ditambahkan, jelaskan fungsi dan perbedaanya
 ![Screenshot Hello World](images/langkah_2.PNG)<br>
 Penjelasan : 
-pada kode diatas terdapat error karena package autosizetext tersebut tidak di import ke dalam file tersebut, maka ditambahkan import untuk package atosize diatas sendiri. pada isi text tidak di deklari terlebih dahulu tipe data di dalamnya, maka ditambahkan untuk deklarasi tipe data string dan dijadikan key required
+pada container pertama diisi denan parameter warna kuning dan width 50. untuk container yang kedua menggunakan parameter color greenaccent dan with 100
 
 ### 5. Jelaskan maksud dari tiap parameter yang ada di dalam plugin auto_size_text berdasarkan tautan pada dokumentasi ini! 
 Penjelasan :
